@@ -3,6 +3,8 @@ published: true
 title: The mens room.
 layout: post
 ---
+The mens room.
+
 Anyone who knows me, knows just how I feel about the mens restroom.
 
 Seems like, no matter where you go, somebody pisses on the toilet seat.
